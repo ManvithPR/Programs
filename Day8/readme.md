@@ -1,0 +1,10 @@
+Filehunting(day8)
+
+1.open()
+    i:read()
+    ii.readline()
+    iii.readlines()
+2.write()
+3.seek()
+4.tell()
+5.close()
