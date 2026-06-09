@@ -11,5 +11,5 @@ if %errorlevel%==0 (
     git push origin main
 )
 
-timeout /t 10
+timeout /t 300
 goto start
